@@ -10,7 +10,7 @@ dynFibo(n)를 구성하고, 시작 (start), 끝 (end), 간격 (stride)의 정수
 계산된 피보나치 수열과 함께 출력하도록 하라. start = 50, end = 100, stride = 5로 설정
 하여 실행 결과를 출력하라. 
 Author: Chang‐Hyeop LEE
-Date of last update: December. 29, 2022
+Date of last update: Jan. 1, 2023
 """
 import time
 memo = dict()
